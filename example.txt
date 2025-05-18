@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tshis is an example
+=======
+this is an example
+>>>>>>> 3321232fcddeba9ba37708d7b4870d4e35e3a0e2
